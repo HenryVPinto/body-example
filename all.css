@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+}
+body{
+  padding: 0;
+  margin: 0;
+}
+.skeleton{
+  background-image: url("./images/prueba.png");
+  background-repeat: no-repeat;
+  height: 710px;
+  margin: auto;
+  width: 342px;
+  position: relative;
+}
+.brazo svg{
+  width: 400px;
+  position: absolute;
+  left: 0;
+
+}
