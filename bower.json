@@ -1,0 +1,21 @@
+{
+  "name": "body-example",
+  "homepage": "https://github.com/HenryVPinto/body-example",
+  "authors": [
+    "HenryVPinto <henryvicentepinto@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "^2.3.1"
+  }
+}

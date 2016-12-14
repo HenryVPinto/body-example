@@ -16,9 +16,21 @@ body{
   width: 342px;
   position: relative;
 }
-.brazo svg{
-  width: 400px;
-  position: absolute;
-  left: 0;
-
+.brazo svg {
+    width: 1212px;
+    position: absolute;
+    left: -168px;
+    top: 47px;
+}
+.cabeza{
+  background-image: url(./images/cabeza-03.png);
+  height: 670px;
+  width: 370px;
+  margin: auto;
+}
+.cabeza svg path{
+  opacity: 0;
+}
+.cabeza svg path:hover{
+  opacity: 0.4;
 }
