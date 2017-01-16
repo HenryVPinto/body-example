@@ -5,32 +5,13 @@
   text-decoration: none;
 }
 body{
-  padding: 0;
+  padding: 50px 0;
   margin: 0;
 }
-.skeleton{
-  background-image: url("./images/prueba.png");
-  background-repeat: no-repeat;
-  height: 710px;
-  margin: auto;
-  width: 342px;
-  position: relative;
-}
-.brazo svg {
-    width: 1212px;
-    position: absolute;
-    left: -168px;
-    top: 47px;
-}
-.cabeza{
-  background-image: url(./images/cabeza-03.png);
-  height: 670px;
-  width: 370px;
-  margin: auto;
-}
-.cabeza svg path{
-  opacity: 0;
-}
-.cabeza svg path:hover{
-  opacity: 0.4;
+.body-example {
+    height: 500px;
+    background-image: url(images/body-bg.png);
+    width: 210px;
+    background-repeat: no-repeat;
+    margin: auto;
 }
